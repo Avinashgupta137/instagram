@@ -1,0 +1,4 @@
+from instabot import Bot
+bot = Bot()
+bot.login(username="arsg2226", password="@*******k")
+bot.upload_photo("download (14).jpg",caption="happy lucky")
